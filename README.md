@@ -3,4 +3,4 @@ Modelling and visualisation on some of the financial engineering theorems using 
 
 Try these codes on Google Colab:
 
-1. [MPT_Part1_two_securities.ipynb](https://colab.research.google.com/drive/1W_9-_nssPPDTN2ahP14cey_C4lOS9y_K?usp=sharing)
+1. [MPT_Part1_two_securities.ipynb](https://colab.research.google.com/drive/1zCSZWT7dTZ59gg85yVucxqb2XMD_IzdP?usp=sharing)
