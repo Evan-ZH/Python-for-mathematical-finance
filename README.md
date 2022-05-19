@@ -1,5 +1,5 @@
 # Python-for-mathematical-finance
-Modelling and visualisation on some of the financial engineering theorems using Jupyter Notebook
+Modelling and visualisation on some of the financial engineering theorems using Jupyter Notebook. **Stay tuned for more to come**.
 
 ***Google Colab***
 
