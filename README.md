@@ -7,6 +7,7 @@ Modelling and visualisation on some of the financial engineering theorems using 
 
 1. [MPT Part 1 - Two Securities Portfolio](https://colab.research.google.com/drive/1zCSZWT7dTZ59gg85yVucxqb2XMD_IzdP?usp=sharing)
 2. [MPT Part 2 - Several Securities: Risk and Expected Return](https://colab.research.google.com/drive/1mw63QFL6HlsWu396ISK5nhNyKcNWRR_v?usp=sharing)
+3. [MPT Part 3 - Efficiency Frontier](https://colab.research.google.com/drive/1-igLEymADeO6dVxtSjsB6eL0Cle60b9s?usp=sharing)
 
 ***
 
