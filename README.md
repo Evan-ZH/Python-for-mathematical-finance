@@ -13,6 +13,14 @@ Modelling and visualisation on some of the financial engineering theorems using 
 
 ***Reference***
 
-The mathematics of the theorems follow the book:
+The mathematics of the theorems are based on:
 
-[Capinski, M. and Zastawniak, T. (2011). Mathematics for Finance. An Introduction to Financial Engineering (Second Edition)](https://link.springer.com/gp/book/9780857290816).
+- [Capinski, M. and Zastawniak, T. (2011). Mathematics for Finance. An Introduction to Financial Engineering (Second Edition)](https://link.springer.com/gp/book/9780857290816).
+
+The code also provide solutions for some exercises in the book.
+
+The required Python packages are:
+
+- For MPT Part 1: `numpy`, `matplotlib`, `scipy`, `pandas`, `pandas_datareader`, `random`, `adjustText`, `tqdm`
+- For MPT Part 2: `numpy`, `matplotlib`, `seaborn`, `pandas`, `pandas_datareader`, `random`, `tqdm`
+- For MPT Part 3: `numpy`, `sympy`, `matplotlib`, `plotly`, `pandas`, `pandas_datareader`, `tqdm`
